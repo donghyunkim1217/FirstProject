@@ -9,8 +9,11 @@ This is your project's README.md file. It helps users understand what your
 project does, how to use it and anything else they may need to know.
 
 문자 앞 뒤에 *특수문자*를 넣으면 기울임체가 됩니다.
+
 문자 앞 뒤에 **특수문자** 넣으면 강조체가 됩니다.
+
 문자 앞 뒤에 ~~특수문자~~ 넣으면 취소선을 만듭니다.
+
 문자 앞뒤에 
 
 # 1 단계 제목
