@@ -21,4 +21,11 @@ project does, how to use it and anything else they may need to know.
 ### 3 단계 제목
 #### 4 단계 제목
 
-데이터 앞부분 일부를 출력하려면 `head()`를 이용하면 됩니다. `tail()`은 데이터 뒷부분 일부를 출력하는 기능 합니다
+데이터 앞부분 일부를 출력하려면 `head()`를 이용하면 됩니다. `tail()`은 데이터 뒷부분 일부를 출력하는 기능 합니다.
+
+```{r}
+summary(cars)
+
+library(ggplot2)
+qplot(data = mpg, x = drv, fill = drv)
+```
